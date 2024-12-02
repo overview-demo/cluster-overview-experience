@@ -8,7 +8,6 @@ metadata:
     ingress_type: kong
     certificate_account_email: platformss@vee.codes
     certificate_environment_type: production
-    grafana_obs_api: https://grafana.ambima-cluster-demo.vkpr.platform.vee.codes
     public_ip: 54.166.80.29
   annotations:
     backstage.io/kubernetes-id: "cluster-overview-experience"
